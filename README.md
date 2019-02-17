@@ -77,3 +77,4 @@ See `man get_*` and `man eprintf` after installation, or [CS50 Reference](https:
 *   [Emrul Hasan Zawad](https://github.com/ehzShelter)
 *   [Ivan Jasenov](https://github.com/IvanJasenov)
 *   [Kareem Zidane](https://github.com/kzidane)
+
